@@ -7,7 +7,7 @@ export const Icard = (props) => {
             <div className="Internship-cards">
                 <div className="I-cards">
                     <div className="top">
-                    <img src={props.logo}/>
+                    <img src={props.logo} alt="logo"/>
                     <h1>{props.name} <br />
                     <span>{props.date}</span></h1> 
                     </div>

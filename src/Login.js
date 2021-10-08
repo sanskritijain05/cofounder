@@ -5,7 +5,7 @@ export const Login = () => {
 
         <>
             <div className="login">
-                <img src={login}/>
+                <img src={login} alt="login"/>
 
 
 

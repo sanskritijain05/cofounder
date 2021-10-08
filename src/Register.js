@@ -5,7 +5,7 @@ export const Register = () => {
     return (
         <>
             <div className="login">
-                <img src={register} />
+                <img src={register} alt="Register" />
 
                 <div className="form">
                     <form>

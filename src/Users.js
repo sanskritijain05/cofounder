@@ -17,7 +17,7 @@ export const Users = () => {
                 <div className="cards3">
                     <div className="card3">
                         <div className="left-image">
-                            <img src={profile_1}/>
+                            <img src={profile_1} alt="profile-1"/>
                             <div className="left-image-content">
                             <h2>Kathreen Johnson</h2>
                             <p>Freshman in College</p>
@@ -35,7 +35,7 @@ export const Users = () => {
                     <div className="card3">
                    
                         <div className="left-image">
-                            <img src={profile_2}/>
+                            <img src={profile_2}alt="profile-2"/>
                             <div className="left-image-content">
                             <h2>Sarah Decker</h2>
                             <p>Junior in High School</p>
@@ -50,7 +50,7 @@ export const Users = () => {
 
 
                     <div className="left-image">
-                            <img src={profile_3}/>
+                            <img src={profile_3} alt="profile-3"/>
                             <div className="left-image-content">
                             <h2>John Cliff</h2>
                             <p>Senior in High School</p>
@@ -65,7 +65,7 @@ export const Users = () => {
                     <div className="card3">
 
                     <div className="left-image">
-                            <img src={profile_4}/>
+                            <img src={profile_4} alt="profile-4"/>
                             <div className="left-image-content">
                             <h2>Seth</h2>
                             <p>Founder of Coalco</p>

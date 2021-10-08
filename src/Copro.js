@@ -23,7 +23,8 @@ export const Copro = () => {
                         occupation="High school Student"
                         expertise="Technology"
                         location="Toronto, Canada"
-                        img={Sarah}
+                        img={Sarah} 
+                
                     />
 
                     <Profile

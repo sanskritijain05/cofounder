@@ -12,9 +12,9 @@ export const Navbar = () => {
                 </div>
                 <div className="center">
                     <ul>
-                        <li><a href="./Find.js">Find a Cofounder</a></li>
-                        <li><a href="./Internship.js">Internships</a></li>
-                        <li><a href="./Developer.js">Developers</a></li>
+                        <li><a href="./Find">Find a Cofounder</a></li>
+                        <li><a href="./Internship">Internships</a></li>
+                        <li><a href="./Developer">Developers</a></li>
                    
                         <li><a href="./Login">Login</a></li>
     

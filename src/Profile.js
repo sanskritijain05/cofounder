@@ -7,7 +7,7 @@ export default function Profile(props) {
 
         <div className="profile-main">
         <div className="profile-js">
-            <img src={props.img}/>
+            <img src={props.img} alt="profiles"/>
             
             <div className="right-content-2">
                 <h1><svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-person" viewBox="0 0 16 16">
